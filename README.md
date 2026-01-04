@@ -45,6 +45,7 @@ VectorShift/
 │
 ├── backend/                  # FastAPI backend
 │   ├── main.py
+│   └── requirements.txt
 ```
 
 ## Getting Started
