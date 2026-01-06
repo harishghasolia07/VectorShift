@@ -39,24 +39,24 @@ const nodeTypes = {
 
 // Initial nodes for demo
 const initialNodes = [
-  // {
-  //   id: 'input-1',
-  //   type: 'input',
-  //   position: { x: 100, y: 100 },
-  //   data: { name: 'user_input' },
-  // },
-  // {
-  //   id: 'llm-1',
-  //   type: 'llm',
-  //   position: { x: 400, y: 100 },
-  //   data: { prompt: 'Hello' },
-  // },
-  // {
-  //   id: 'output-1',
-  //   type: 'output',
-  //   position: { x: 700, y: 100 },
-  //   data: { name: 'result' },
-  // },
+  {
+    id: 'input-1',
+    type: 'input',
+    position: { x: 100, y: 100 },
+    data: { name: 'user_input' },
+  },
+  {
+    id: 'llm-1',
+    type: 'llm',
+    position: { x: 400, y: 100 },
+    data: { prompt: 'Hello' },
+  },
+  {
+    id: 'output-1',
+    type: 'output',
+    position: { x: 700, y: 100 },
+    data: { name: 'result' },
+  },
 ];
 
 const initialEdges = [
