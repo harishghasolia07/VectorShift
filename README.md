@@ -2,6 +2,8 @@
 
 A React-based node editor with a FastAPI backend for building and validating data pipelines.
 
+![Pipeline Editor](./frontend/public/image.png)
+
 ## Features
 
 ### Frontend
